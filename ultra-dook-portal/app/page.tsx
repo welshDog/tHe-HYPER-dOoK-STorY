@@ -191,6 +191,7 @@ export default function UltraDookPortal() {
                             <select
                                 value={selectedCategory}
                                 onChange={(e) => setSelectedCategory(e.target.value)}
+                                aria-label="Filter memory crystals by category"
                                 className={`pl-10 pr-8 py-3 rounded-xl border-2 transition-all focus:outline-none focus:ring-2 ${hyperfocusMode
                                         ? 'bg-hyperfocus-800 border-hyperfocus-600 text-white focus:ring-hyperfocus-400'
                                         : 'bg-white border-broski-200 focus:ring-broski-400 focus:border-broski-400'
