@@ -2,6 +2,10 @@
 
 ## 🩵💚❤️‍🔥 Ultra dOoK Portal - ADHD-Optimized Memory Crystal Management
 
+[💎⚡ SUPPORT THE HYPERFOCUS EMPIRE ⚡💎 – Donation & Sponsorship Portal](https://welshdog.github.io/hyperfocuszone.com-Support-Hub-/)
+
+> Join our Focus Warriors, Elite Agents, and Empire Builders to power next-gen ADHD-friendly tools!
+
 **The Ultimate Neurodivergent Entrepreneur's Memory Crystal Empire!**
 
 ### 🦸‍♂️💎 Current Status: **LEGENDARY & LIVE!**
